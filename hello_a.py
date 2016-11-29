@@ -1,2 +1,2 @@
 ECHO ist eingeschaltet (ON).
-print("Hello Mr. A") 
+print ("Hello Mr. A")
